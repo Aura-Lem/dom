@@ -2,10 +2,19 @@ body,
 body * {
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 2rem;
 }
 
 body {
     font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
+.zuikio-darzove {
+    font-size: 1.2rem;
+    background-color: green;
+}
+
+.zuikio-darzo-error {
+    font-size: 1.2rem;
+    background-color: red;
+}
