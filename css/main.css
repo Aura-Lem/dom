@@ -2,10 +2,10 @@ body,
 body * {
     box-sizing: border-box;
     margin: 0;
-    padding: 2rem;
 }
 
 body {
+    padding: 2rem;
     font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
