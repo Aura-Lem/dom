@@ -9,6 +9,22 @@ body {
     font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
+.main-header {
+    padding: 1rem 2rem;
+    background-color: #eee;
+    margin-bottom: 10px;
+}
+
+.main-header nav {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.main {
+    padding: 2rem;
+}
+
 .zuikio-darzove {
     font-size: 1.2rem;
     background-color: green;
