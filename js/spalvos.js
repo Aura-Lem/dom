@@ -1,3 +1,7 @@
+import {header} from "./header.js";
+
+header();
+
 document.querySelector('title').textContent = 'Spalvos';
 
 

@@ -1,3 +1,7 @@
+import {header} from "./header.js";
+
+header(true);
+
 const h1DOM = document.getElementsByTagName('h1');
 
 console.log(h1DOM);
